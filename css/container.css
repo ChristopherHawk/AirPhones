@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap');
+
+*{
+  font-family: 'Poppins', sans-serif;
+}
+
+
+.BOXBODY {
+  background: rgba(20, 20, 20, 0.932);
+  width: 90%;
+  height: 90%;
+  margin-left: 6%;
+  margin-right: 6%;
+  margin-top: 5px;
+  padding: 10px;
+  display: inline-block;
+ 
+  overflow: hidden;
+  box-shadow: inset 0 0 2px 1px rgba(255, 255, 255, 0.1), 0px 2px 13px 0px #295ca8; 
+ 
+}
+
+#container{
+  background-image: url('../img/back.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  box-shadow: inset 0 0 2px 1px rgba(255, 255, 255, 0.1), 0px 2px 13px 0px #750000; 
+  height: 100%;
+}
+
+
+/*BTN*/
+.btnDiv{
+  display: block;
+ float: left;
+  margin-top: -9%;
+  margin-bottom: 2%;
+
+}

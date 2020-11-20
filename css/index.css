@@ -1,0 +1,61 @@
+
+
+/*BRAND*/
+#navbar-brand{
+  margin-right: 11rem;
+  margin-left: 6rem;
+  
+ }
+ 
+
+
+/*BUY*/
+#carBuy{
+  position: absolute;
+  top: 15px;
+  right: 7%;
+  
+}
+
+.bi{  
+  font-size: 25px;
+  cursor: pointer; 
+} 
+
+/*H1*/
+
+#tittle{
+  margin-top: 25%;
+  margin-left: calc(100% / 4);
+  float: left;
+  color:#a00000;
+}
+/*TEXT*/
+p{
+  float: left;
+  margin-left: calc(100% / 4);
+  margin-right:calc(100% / 4) ;
+  margin-bottom: 10px;
+  font-size: 20px;
+  color: aliceblue;
+}
+
+
+
+/*PICTURE*/
+.card-body{
+  float: right;
+  
+}
+
+#imgBody{
+  position: relative;
+  float: right;
+  width: 16rem;  
+  margin-top: 30px;
+  margin-right: 21%;
+  height: 22rem;
+  margin-bottom: 10px;
+  opacity: 0.9;
+}
+
